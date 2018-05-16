@@ -82,3 +82,4 @@ out <- function(seg = "Total", grp = "Total", per = "Week"){
 }
 
 # rsconnect::deployAPI("plumber", account = "nathan", server = "colorado.rstudio.com", appName = "Tracker-API")
+
